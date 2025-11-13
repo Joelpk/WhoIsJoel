@@ -15,15 +15,14 @@ It’s a simple, responsive, and fast-loading site built to give visitors a glim
 
 ## 🛠️ Built With
 - **HTML5**  
-- **CSS3 / TailwindCSS** (optional)  
+- **CSS3**
 - **JavaScript**  
-- *(Optional: Add frameworks like React or Next.js if you used them)*
 
 ## 🌐 Live Demo
 You can view the site here: [your-deployed-link-if-any]
 
 ## 📬 Contact
-If you’d like to connect, feel free to reach out via [LinkedIn](www.linkedin.com/in/joel-peka) or [email](joelpeka753@gmail.com).
+If you’d like to connect, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/joel-peka) or [email](mailto:joelpeka753@gmail.com).
 
 ---
 
