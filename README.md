@@ -23,7 +23,7 @@ It’s a simple, responsive, and fast-loading site built to give visitors a glim
 You can view the site here: [your-deployed-link-if-any]
 
 ## 📬 Contact
-If you’d like to connect, feel free to reach out via [LinkedIn](your-linkedin-url) or [email](your-email).
+If you’d like to connect, feel free to reach out via [LinkedIn](www.linkedin.com/in/joel-peka) or [email](joelpeka753@gmail.com).
 
 ---
 
